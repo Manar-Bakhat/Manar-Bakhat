@@ -11,7 +11,7 @@ Software Engineer Student
 - 💬 Ask me about ... MERN
 - 😄 Pronouns: ... YES
 - ⚡ Fun fact: ... I am Funny and I love to Code
-* ✉️  You can contact me at [ahmed.hafdi.contact@gmail.com](mailto:manarbakhatt@gmail.com)
+* ✉️  You can contact me at [manarbakhatt@gmail.com](mailto:manarbakhatt@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
