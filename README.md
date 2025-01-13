@@ -58,38 +58,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 
 ---
 
-## 📂 **Featured Projects**
-
-### 1. **Web Application for Measurement Test Management**  
-   - **Technologies:** .NET, Angular, SQL Server, PrimeNG  
-   - **Description:** A web application developed during my internship at TE Connectivity to manage the measurement test process in their laboratory.  
-   - [View Project](https://github.com/yourusername/measurement-test-app)
-
-### 2. **Internship Application Management System**  
-   - **Technologies:** .NET, Angular, SQL Server  
-   - **Description:** A web application developed during my internship at NTT DATA to manage the application process of interns.  
-   - [View Project](https://github.com/yourusername/internship-management-app)
-
-### 3. **Freelance Project Management Web App**  
-   - **Technologies:** ASP.NET, Entity Framework, Bootstrap  
-   - **Description:** A web application for managing freelance projects, built using the MVC architecture.  
-   - [View Project](https://github.com/yourusername/freelance-management-app)
-
----
-
-## 📈 **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamar-Bakhat&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamar-Bakhat&layout=compact&theme=radical)
-
----
-
 ## 📫 **Let's Connect!**
 
 - **Email:** [manarbakhat2001@gmail.com](mailto:manarbakhat2001@gmail.com)  
 - **LinkedIn:** [Manar Bakhat](https://www.linkedin.com/in/manar-bakhat)  
-- **Portfolio:** [Coming Soon!]  
+- **Portfolio:** [https://my-portfolio-beta-opal-49.vercel.app/]  
 
 ---
 
